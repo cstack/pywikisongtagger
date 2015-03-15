@@ -1,0 +1,1 @@
+Pywiki Song Tagger takes mp3 files, looks them up on wikipedia, extracts information and assigns it to the files' id3 tags. It uses pywikipedia to read wikipedia pages and mutagen to read and write tags.
